@@ -17,7 +17,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.12e" provider-name="Tikipeter, Ivar Brandt">
+</addon><addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.12f" provider-name="Tikipeter, Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
