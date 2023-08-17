@@ -42,6 +42,16 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
+</addon><addon id="resource.uisounds.fentastic" version="1.0.0" name="FENtastic UI Audio Suite" provider-name="Ivar Brandt">
+  <requires>
+    <import addon="kodi.resource" version="1.0.0" />
+  </requires>
+  <extension point="kodi.resource.uisounds" />
+  <extension point="kodi.addon.metadata">
+    <summary lang="en">FENtastic Audio Suite</summary>
+    <description lang="en">FENtastic Audio Suite</description>
+    <platform>all</platform>
+  </extension>
 </addon><addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.15a" provider-name="Tikipeter, Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
