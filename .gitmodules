@@ -4,3 +4,6 @@
 [submodule "repo/skin.fentastic"]
 	path = repo/skin.fentastic
 	url = https://github.com/ivarbrandt/skin.fentastic
+[submodule "repo/plugin.program.autocompletion"]
+	path = repo/plugin.program.autocompletion
+	url = https://github.com/ivarbrandt/plugin.program.autocompletion
