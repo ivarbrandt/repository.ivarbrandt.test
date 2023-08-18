@@ -52,7 +52,7 @@
     <description lang="en">FENtastic Audio Suite</description>
     <platform>all</platform>
   </extension>
-</addon><addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.15b" provider-name="Tikipeter, Ivar Brandt">
+</addon><addon id="script.fentastic.helper" name="FENtastic Helper" version="0.6.15c" provider-name="Tikipeter, Ivar Brandt">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" version="2.19.1" />
